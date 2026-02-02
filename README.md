@@ -1,4 +1,4 @@
-# François Mansaré
+# FRANCOIS MANSARE
 
 ## Digital Engineering for Finance  
 ## Data Analysis | Applied Machine Learning | Decision Support Systems
