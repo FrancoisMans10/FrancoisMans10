@@ -1,16 +1,70 @@
+# François Mansaré
 
+## Digital Engineering for Finance  
+## Data Analysis | Applied Machine Learning | Decision Support Systems
 
-<!--
-**FrancoisMans10/FrancoisMans10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student in **digital engineering applied to finance**, with a strong focus on data analysis, statistical modeling, and applied machine learning.
 
-Here are some ideas to get you started:
+My academic and practical work is centered on building **data-driven systems** that support **financial analysis, risk assessment, and informed decision-making**.  
+I value methodological rigor, clarity of results, and real-world applicability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Core Competencies
+
+### Data & Statistical Analysis
+- Data cleaning, preprocessing, and validation  
+- Exploratory Data Analysis (EDA)  
+- Statistical reasoning and interpretation  
+
+### Machine Learning & Modeling
+- Supervised and unsupervised learning  
+- Feature engineering and dimensionality reduction  
+- Model evaluation, comparison, and validation  
+
+### Tools & Technical Environment
+- Programming: Python, R, SQL  
+- Libraries: Pandas, NumPy, Scikit-learn  
+- Concepts: Probability, Statistics, PCA, Regression, Classification  
+
+---
+
+## Projects
+
+My projects reflect a **progressive and structured approach** to data science and digital finance engineering.
+
+### Data Analysis Projects
+End-to-end pipelines covering data collection, preprocessing, analysis, and visualization.
+
+### Machine Learning Projects
+Design and evaluation of predictive models with attention to performance, robustness, and interpretability.
+
+### Finance-Oriented Projects
+Application of data science methods to financial datasets, focusing on risk analysis and decision support.
+
+> Each repository contains detailed documentation, code, and where relevant, visual or video demonstrations of the results.
+
+---
+
+## Distinctions & Achievements
+
+- Academic or technical awards related to data, technology, or finance  
+- Hackathons, competitions, or recognitions (when applicable)  
+
+---
+
+## Professional Objective
+
+I am seeking **junior-level or entry-level opportunities**, internships, or project-based collaborations in:
+- Data analysis  
+- Applied machine learning  
+- Digital engineering for finance  
+
+My goal is to continue developing **technical depth**, **domain expertise in finance**, and **professional-level project execution**.
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/TON-LINK  
+GitHub: https://github.com/FrancoisMans10
