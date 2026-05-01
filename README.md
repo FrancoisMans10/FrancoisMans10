@@ -48,8 +48,7 @@ Application of data science methods to financial datasets, focusing on risk anal
 
 ## Distinctions & Achievements
 
-- Academic or technical awards related to data, technology, or finance  
-- Hackathons, competitions, or recognitions (when applicable)  
+Champion d'art oratoire (ASEGUIM 2023, CESAM Fes - 2024, CESAM CENTRALE - 2024 )  
 
 ---
 
