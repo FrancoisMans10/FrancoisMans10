@@ -1,69 +1,60 @@
 # FRANCOIS MANSARE
 
-## Digital Engineering for Finance  
-## Data Analysis | Applied Machine Learning | Decision Support Systems
+## Digital Engineering for Finance | Data Science & Machine Learning
 
-I am a student in **digital engineering applied to finance**, with a strong focus on data analysis, statistical modeling, and applied machine learning.
+Student-engineer in digital engineering for finance, pursuing a double degree between **Mines Saint-Étienne (ICM)** and **ENSIAS**.
 
-My academic and practical work is centered on building **data-driven systems** that support **financial analysis, risk assessment, and informed decision-making**.  
-I value methodological rigor, clarity of results, and real-world applicability.
+I build data-driven systems for financial analysis, risk assessment, and decision support. My work focuses on applied machine learning, statistical modeling, and quantitative methods.
 
 ---
 
-## Core Competencies
+## Technical Stack
 
-### Data & Statistical Analysis
-- Data cleaning, preprocessing, and validation  
-- Exploratory Data Analysis (EDA)  
-- Statistical reasoning and interpretation  
-
-### Machine Learning & Modeling
-- Supervised and unsupervised learning  
-- Feature engineering and dimensionality reduction  
-- Model evaluation, comparison, and validation  
-
-### Tools & Technical Environment
-- Programming: Python, R, SQL  
-- Libraries: Pandas, NumPy, Scikit-learn  
-- Concepts: Probability, Statistics, PCA, Regression, Classification  
+**Languages:** Python, SQL, C  
+**Data Science:** Pandas, NumPy, Scikit-learn, PyTorch  
+**ML & AI:** Supervised/Unsupervised Learning, NLP (FinBERT), Feature Engineering  
+**Finance:** Credit Risk Modeling, Market Analysis, Decision Support Systems  
+**Tools:** Git, PostgreSQL, Streamlit, Plotly  
+**Blockchain:** Solidity, Hardhat, Smart Contracts
 
 ---
 
-## Projects
+## Featured Projects
 
-My projects reflect a **progressive and structured approach** to data science and digital finance engineering.
+### 🔹 FinSent — Financial News Sentiment Analysis
+- Fine-tuned FinBERT to classify financial news sentiment.
+- Built a Django web app with PostgreSQL and an interactive dashboard.
+- Automated pipeline: data collection → sentiment analysis → visualization.
 
-### Data Analysis Projects
-End-to-end pipelines covering data collection, preprocessing, analysis, and visualization.
+### 🔹 Bank Loan Risk Prediction — Gaussian Mixture Model
+- Applied GMM to identify atypical credit risk profiles.
+- Compared with Random Forest and XGBoost.
+- Evaluated robustness and interpretability.
 
-### Machine Learning Projects
-Design and evaluation of predictive models with attention to performance, robustness, and interpretability.
+### 🔹 Stock Market Direction Prediction — MASI Index
+- Modeled daily direction of the Moroccan stock market.
+- Engineered technical and macroeconomic features.
+- Trained and compared Random Forest and XGBoost.
 
-### Finance-Oriented Projects
-Application of data science methods to financial datasets, focusing on risk analysis and decision support.
+### 🔹 GuiTroc — Circular Economy Marketplace
+- Contributed to a blockchain-based marketplace.
+- Designed a virtual currency system (Guidcoin).
+- Developed backend and AI recommendation system.
 
-> Each repository contains detailed documentation, code, and where relevant, visual or video demonstrations of the results.
+### 🔹 YIRI TECH AFRICA — Co-founder
+- Building digital solutions for African organizations.
+- Focused on AI, digitalization, and technology innovation.
 
 ---
 
-## Distinctions & Achievements
+## Achievements
 
-Champion d'art oratoire (ASEGUIM 2023, CESAM Fes - 2024, CESAM CENTRALE - 2024 )  
-
----
-
-## Professional Objective
-
-I am seeking **junior-level or entry-level opportunities**, internships, or project-based collaborations in:
-- Data analysis  
-- Applied machine learning  
-- Digital engineering for finance  
-
-My goal is to continue developing **technical depth**, **domain expertise in finance**, and **professional-level project execution**.
+- Champion d'art oratoire (ASEGUIM 2023, CESAM Fès 2024, CESAM Centrale 2024)
 
 ---
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/TON-LINK  
-GitHub: https://github.com/FrancoisMans10
+- LinkedIn: [linkedin.com/in/francois-mansare](https://www.linkedin.com/in/francois-mansare)
+- Email: francoismansare@gmail.com
+- GitHub: [github.com/FrancoisMans10](https://github.com/FrancoisMans10)
